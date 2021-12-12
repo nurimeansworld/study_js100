@@ -15,7 +15,6 @@
 
 // 박경서 답안
 // 2번 
-
 // JavaScript 에서의 false값은 
 // - null
 // - undefined
