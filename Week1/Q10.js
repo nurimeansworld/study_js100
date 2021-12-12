@@ -33,3 +33,20 @@ makeTree(5);
 // for(let star = 1; star < 10; star+=2) {
 //   console.log(' '.repeat((9 -star) / 2) + '*'.repeat(star))
 // }
+
+// 박경서 답안
+// 입력이 n인 경우
+function star(n){
+    for(let i = 0; i < n; i++){
+        for(let j = n; i < j; j--){
+            document.write('&nbsp');
+        }
+        for(let j = 0; j <= i; j++){
+            document.write('*');
+        }
+        for(let j = 1; j <= i; j++){
+            document.write('*');
+        }
+        document.write('<br>');
+    }    
+}
