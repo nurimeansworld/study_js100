@@ -13,6 +13,17 @@
 // 이승연 답안
 // 정답: 2) 1
 
+// 박경서 답안
+// 2번 
+// JavaScript 에서의 false값은 
+// - null
+// - undefined
+// - 0
+// - 빈 문자열("")
+// - NaN
+// - false
+// 을 제외한 것들은 모두 true
+
 // 안소현 답안
 // 정답: 2
 // console.log(!!NaN);
