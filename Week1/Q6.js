@@ -23,3 +23,11 @@
 // - NaN
 // - false
 // 을 제외한 것들은 모두 true
+
+// 안소현 답안
+// 정답: 2
+// console.log(!!NaN);
+// console.log(!!1);
+// console.log(!!"");
+// console.log(!!0);
+// console.log(!!undefined);

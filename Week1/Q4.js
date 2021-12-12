@@ -12,3 +12,10 @@
 
 // 박경서 답안
 // 2번 
+
+// 안소현 답안
+// 정답: 2
+// console.log(typeof 1); // number
+// console.log(typeof 2.22); // number
+// console.log(typeof 'p'); // string
+// console.log(typeof [1,2,3]); // object

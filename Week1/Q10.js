@@ -50,3 +50,21 @@ function star(n){
         document.write('<br>');
     }    
 }
+
+// 안소현 답안
+//let lines = prompt('트리를 몇 줄로 만들고 싶으세요?');
+// for (let i = 1; i <= lines; i++) {
+//   let line = '';
+//   let asterCnt = 0;
+//   for (let j = 0; j < 3 * (lines - 2); j++) {
+//     if (j < lines - i) {
+//       line += '&nbsp;';
+//     } else {
+//       line += '*';
+//       asterCnt += 1;
+//       if (asterCnt === 2 * i - 1) break;
+//     }
+//   }
+//   document.write(line + '<br>');
+// }
+

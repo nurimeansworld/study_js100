@@ -22,3 +22,9 @@ nums.splice(-2) // 인덱스 3부터 2개 삭제
 nums.slice(0, 3)
 //  [100, 200, 300]
 // 원본에 영향 안미침
+
+// 안소현 답안
+// var nums = [100, 200, 300, 400, 500];
+// nums.pop();
+// nums.pop();
+// console.log(nums);
