@@ -21,3 +21,4 @@ console.log(d['weight']);
 
 // 안소현 답안
 // 84
+

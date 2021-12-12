@@ -67,3 +67,4 @@ function star(n){
 //   }
 //   document.write(line + '<br>');
 // }
+
