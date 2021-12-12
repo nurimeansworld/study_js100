@@ -10,3 +10,7 @@ var second = '27';
 var result = year.concat(`/${month}/${day} ${hour}:${minute}:${second}`);
 
 console.log(result); //2019/04/26 11:34:27
+
+
+// 이승연 답안
+// 정답: var result = year.concat('/', month, '/', day, ' ', hour, ':', minute, ':', second)

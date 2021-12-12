@@ -8,5 +8,5 @@ nums.splice(3,2);
 nums // [100,200,300]
 
 // 이승연 답안
-const result = nums.slice(0, 3);
-console.log(result); // [100, 200, 300]
+// const result = nums.slice(0, 3);
+// console.log(result); // [100, 200, 300]
