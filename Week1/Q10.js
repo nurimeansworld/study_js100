@@ -28,3 +28,8 @@ function makeTree(number) {
 }
 
 makeTree(5);
+
+// 이승연 답안
+// for(let star = 1; star < 10; star+=2) {
+//   console.log(' '.repeat((9 -star) / 2) + '*'.repeat(star))
+// }
