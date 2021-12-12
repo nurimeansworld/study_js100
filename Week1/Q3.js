@@ -13,3 +13,6 @@ console.log(typeof(arr));
 
 // 이승연 답안
 // 정답: 4) object
+
+// 안소현 답안
+// 정답: 4

@@ -14,3 +14,7 @@ console.log(result); //2019/04/26 11:34:27
 
 // 이승연 답안
 // 정답: var result = year.concat('/', month, '/', day, ' ', hour, ':', minute, ':', second)
+
+// 안소현 답안
+// var result = year.concat('/', month, '/', day, ' ', hour, ':', minute, ':', second);
+// console.log(result);
