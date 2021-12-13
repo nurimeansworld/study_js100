@@ -14,8 +14,8 @@
 // 정답: 2) 1
 
 // 박경서 답안
-// 2번 
-// JavaScript 에서의 false값은 
+// 2번
+// JavaScript 에서의 false값은
 // - null
 // - undefined
 // - 0
@@ -31,3 +31,7 @@
 // console.log(!!"");
 // console.log(!!0);
 // console.log(!!undefined);
+
+// 박누리 답안
+// 정답 : 2) 1
+// 1은 truthy 나머지는 falsy..?!
