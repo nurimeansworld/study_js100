@@ -21,6 +21,9 @@
 
 ### <span id="Week1">Week1 - 21.12.12</span>
 
+<details>
+<summary>열기</summary>
+
 - [문제1](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q1.js)
 - [문제2](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q2.js)
 - [문제3](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q3.js)
@@ -32,7 +35,12 @@
 - [문제9](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q9.js)
 - [문제10](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q10.js)
 
+</details>
+
 ### <span id="Week2">Week2 - 21.12.19</span>
+
+<details>
+<summary>열기</summary>
 
 - [문제11](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q11.js)
 - [문제12](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q12.js)
@@ -44,3 +52,5 @@
 - [문제18](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q18.js)
 - [문제19](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q19.js)
 - [문제20](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q20.js)
+
+</details>
