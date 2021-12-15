@@ -4,3 +4,8 @@
 
 // 입력으로 키가 주어지면
 // 키가 150이 넘으면 YES를 틀리면 NO를 출력하는 프로그램을 작성하세요.
+
+// 박누리 답안
+// 이상이면 150 포함인데 키가 150이 넘는건 초과이지 않나는 고민...
+let userHieght = prompt("키를 입력하세요"); // let userHieght = "150.1";
+console.log(userHieght > 150 ? "YES" : "NO");
