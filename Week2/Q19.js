@@ -19,3 +19,9 @@ console.log(arrNum[0] ** arrNum[1]);
 // const num = prompt('공백으로 구분하여 두 숫자를 입력해주세요.');
 // let result = num.split(' ');
 // console.log(parseInt(result[0]**result[1]));
+
+
+// 김초연 답안
+// const data = prompt('숫자 두 개를 입력하세요!').split(' ');
+// let result = parseInt(data[0], 10) ** parseInt(data[1], 10);
+// console.log(result);
