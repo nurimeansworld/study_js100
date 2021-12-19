@@ -15,3 +15,8 @@ console.log(s);
 // for (let i = 1; i < 101; i++) s += i;
 // console.log(s);
 // console.log(100*101/2);
+
+// 이승연 답안
+// for(let i=1; i < 101; i++) {
+//  s += i;
+// }
