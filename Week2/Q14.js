@@ -32,3 +32,18 @@ console.log(`입력 : ${num}
 // }
 // findNum(prompt('3의 배수 인가요?'));
 
+//김초연 답안
+// function Game369 (number) {
+//     if(typeof number === 'number') {
+//         if(number % 3 === 0 ) {
+//             console.log('짝');
+//         } else {
+//             console.log(number);
+//         }
+//     } else {
+//         console.log('잘못된 입력 값입니다!!!');
+//     }
+// }
+// Game369(3);
+// Game369(2);
+// Game369('야');
