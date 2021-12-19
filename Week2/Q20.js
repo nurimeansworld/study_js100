@@ -18,3 +18,12 @@ console.log(`${arrNum[0] / arrNum[1]} ${arrNum[0] % arrNum[1]}`);
 // 안소현 답안
 const input = prompt('숫자 2개를 입력해주세요.(각 숫자는 공백 하나로 구분)').split(' ');
 console.log(parseInt(input[0] / input[1]), input[0] % input[1]);
+
+// 이승연 답안
+// const n = prompt('두 숫자를 입력하세요.').split(' ');
+// let result1 = parseInt(n[0], 10) 
+// let result2 =  parseInt(n[1], 10);
+
+// let answer1 = result1 / result2;
+// let answer2 = result1 % result2;
+// console.log(`몫: ${answer1}, 나머지: ${answer2}`);
