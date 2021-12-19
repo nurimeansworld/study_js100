@@ -20,3 +20,15 @@ console.log(`입력 : ${num}
 // 안소현 답안
 // let n = prompt('369! 369! 지금은 무슨 숫자의 순서야?');
 // n % 3 === 0 ? console.log('짝👏') : console.log(n);
+
+
+// 이승연 답안
+// function findNum(n) {
+//   if (n % 3 === 0) {
+//     console.log('짝');
+//   } else {
+//     console.log(n);
+//   }
+// }
+// findNum(prompt('3의 배수 인가요?'));
+
