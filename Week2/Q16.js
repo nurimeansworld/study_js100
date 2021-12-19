@@ -36,3 +36,10 @@ console.log(text.split("").reverse().join(""));
 
 // console.log(result);
 // // console.log(Array.from(input).reverse().join(''));
+
+
+// 이승연 답안
+const n = prompt('문장을 입력하세요');
+
+const reverseStr = n.split('').reverse().join('');
+console.log(reverseStr);
