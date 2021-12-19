@@ -20,3 +20,10 @@ console.log(s);
 // for(let i=1; i < 101; i++) {
 //  s += i;
 // }
+
+// 김초연 답안
+// let s = 0;
+// for (i = 1; i <=100; i++) {
+//     s += i;
+// }
+// console.log(s);
