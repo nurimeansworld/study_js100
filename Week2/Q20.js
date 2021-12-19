@@ -27,3 +27,11 @@ console.log(parseInt(input[0] / input[1]), input[0] % input[1]);
 // let answer1 = result1 / result2;
 // let answer2 = result1 % result2;
 // console.log(`몫: ${answer1}, 나머지: ${answer2}`);
+
+// 박경서 답안
+let num = prompt("두개의 숫자를 입력하세요.").split(" ");
+let 몫 = parseInt(num[0] / num[1]);
+let 나머지 = parseInt(num[0] % num[1]);
+let result = `${몫}${" "}${나머지}`;
+
+console.log(result);
