@@ -37,3 +37,13 @@ console.log(planet[n - 1]);
 // const n = prompt('몇 번째 행성인가요?');
 // console.log(planets[n-1]);
 
+//김초연 답안
+// const planet = ['수성', '금성', '지구', '화성', '목성', '토성', '천왕성', '해왕성'];
+// function planetCounter(i) {
+//     if( Number.isInteger(i) && 0 < i < 9 ) {
+//         console.log(planet[i-1]);
+//     } else {
+//         console.log('잘못된 입력값입니다.')
+//     }
+// }
+// planetCounter(1);
