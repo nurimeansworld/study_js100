@@ -19,3 +19,9 @@ console.log(arrNum[0] ** arrNum[1]);
 // const num = prompt('공백으로 구분하여 두 숫자를 입력해주세요.');
 // let result = num.split(' ');
 // console.log(parseInt(result[0]**result[1]));
+
+// 박경서 답안
+let num = prompt("정수와 제곱수를 입력하세요").split(" "); 
+let result = parseInt(num[0] ** num[1]);
+
+console.log(result);
