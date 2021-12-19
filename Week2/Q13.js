@@ -24,3 +24,9 @@ const planet = [
   "해왕성",
 ];
 console.log(planet[n - 1]);
+
+// 안소현 답안
+// let order = prompt('태양계 몇 번째 행성을 알고 싶으신 가요?');
+// const SOLAR_SYSTEM = ['수성', '금성', '지구', '화성', '목성', '토성', '천왕성', '해왕성'];
+
+// console.log(SOLAR_SYSTEM[order - 1]);

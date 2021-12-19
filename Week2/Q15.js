@@ -10,3 +10,7 @@
 // 박누리 답안
 let name = prompt("이름을 입력하세요");
 console.log(`안녕하세요. 저는 ${name}입니다.`);
+
+// 안소현 답안
+// const name = prompt('당신의 이름은 무엇인가요?');
+// console.log(`안녕하세요. 저는 ${name}입니다.`);

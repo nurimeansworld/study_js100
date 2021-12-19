@@ -9,3 +9,9 @@
 let s = 0;
 for (let i = 1; i < 101; i++) s += i;
 console.log(s);
+
+// 안소현 답안
+// let s = 0;
+// for (let i = 1; i < 101; i++) s += i;
+// console.log(s);
+// console.log(100*101/2);

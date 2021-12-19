@@ -16,3 +16,7 @@ result = num % 3 === 0 ? "짝" : num;
 
 console.log(`입력 : ${num}
 출력 : ${result}`);
+
+// 안소현 답안
+// let n = prompt('369! 369! 지금은 무슨 숫자의 순서야?');
+// n % 3 === 0 ? console.log('짝👏') : console.log(n);

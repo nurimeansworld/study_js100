@@ -9,3 +9,8 @@
 // 이상이면 150 포함인데 키가 150이 넘는건 초과이지 않나는 고민...
 let userHieght = prompt("키를 입력하세요"); // let userHieght = "150.1";
 console.log(userHieght > 150 ? "YES" : "NO");
+
+// 안소현 답안
+// const height = prompt('당신의 키는? (cm단위로 숫자만 입력)');
+// const result = height >= 150 ? 'YES' : 'NO';
+// console.log(result);
