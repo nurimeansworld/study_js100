@@ -59,3 +59,14 @@ x.attack();
 //   }
 // }
 
+//김초연 답안
+// class Wizard {
+//     constructor(health, mana, armor) {
+//         this.health = health,
+//         this.mana = mana,
+//         this.armor = armor
+//     }
+//     attack() {
+//         console.log('파이어볼')
+//     }
+// }
