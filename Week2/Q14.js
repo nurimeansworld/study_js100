@@ -32,3 +32,11 @@ console.log(`입력 : ${num}
 // }
 // findNum(prompt('3의 배수 인가요?'));
 
+// 박경서 답안
+let n = prompt("영희야 숫자를 말해봐")
+
+if(n % 3 == 0) {
+    console.log("짝!!");
+}else {
+    console.log(n);
+}
