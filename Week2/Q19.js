@@ -8,3 +8,9 @@ let num = prompt(
 // let num = "4 2 10";
 arrNum = num.split(" ").map(Number);
 console.log(arrNum[0] ** arrNum[1]);
+
+
+// 안소현 답안
+// const numStr = prompt('숫자 두 개를 입력해 주세요. (각 숫자는 띄어쓰기 한 번으로 구분)');
+// const numArr = numStr.split(' ').map(v => parseInt(v));
+// console.log(`${numArr[0]}의 ${numArr[1]}승은?`,numArr[0]**numArr[1]);

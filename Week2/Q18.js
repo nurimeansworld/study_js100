@@ -21,3 +21,14 @@ for (let i = 0; i < arrScore.length; i++) {
   sum += arrScore[i];
 }
 console.log(parseInt(sum / arrScore.length));
+
+
+// 안소현 답안
+// const scoresStr = prompt('국어, 수학, 영어 점수를 순서대로 입력해주세요. (각각의 점수는 띄어쓰기 한 번으로 구분 합니다.)');
+// const scoreArr = scoresStr.trim().split(' ');
+// let sum = 0;
+// for (let i = 0; i < scoreArr.length; i++) {
+//   sum += parseInt(scoreArr[i]);
+// }
+
+// console.log('평균:', Math.floor(sum / scoreArr.length));

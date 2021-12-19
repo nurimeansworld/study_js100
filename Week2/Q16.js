@@ -25,3 +25,14 @@ let text = prompt("문장을 입력하세요. 거꾸로 출력됩니다");
 //   // console.log(i);
 // }
 console.log(text.split("").reverse().join(""));
+
+
+// 안소현 답안
+// const input = prompt('로꾸거! 로꾸거! 반대로 말하기');
+// let result = '';
+// for (let i = input.length - 1; i >= 0; i--) {
+//   result += input.charAt(i);
+// }
+
+// console.log(result);
+// // console.log(Array.from(input).reverse().join(''));
