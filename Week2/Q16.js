@@ -45,3 +45,21 @@ console.log(text.split("").reverse().join(""));
 // console.log(reverseStr);
 
 
+// //김초연 답안
+//첫 번째 풀이
+// function reverse(data) {
+//     data = data + '';
+//     let result = '';
+//     const s = data.split('');
+//     s.forEach(el => {
+//         result = el + result;
+//     });
+//     console.log(result);
+// }
+// reverse('되나요');
+// reverse(369);
+
+// //두 번째 풀이
+// const data = prompt('입력하세요.');
+// const result = data.split('').reverse().join('');
+// console.log(result);
