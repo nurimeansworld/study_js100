@@ -27,3 +27,9 @@ console.log(parseInt(input[0] / input[1]), input[0] % input[1]);
 // let answer1 = result1 / result2;
 // let answer2 = result1 % result2;
 // console.log(`몫: ${answer1}, 나머지: ${answer2}`);
+
+// //김초연 답안
+// const data = prompt('숫자 두 개를 입력하세요~~').split(' ');
+// const share = Math.floor(parseInt(data[0],10) / parseInt(data[1],10));
+// const remain = parseInt(data[0],10)%parseInt(data[1],10);
+// console.log(share, remain);
