@@ -32,3 +32,12 @@ console.log(parseInt(sum / arrScore.length));
 // }
 
 // console.log('평균:', Math.floor(sum / scoreArr.length));
+
+// 이승연 답안
+// let score = prompt('세 과목의 점수를 입력하세요.')
+// let result = score.split(' ').map( n => parseInt(n));
+// let answer = 0;
+// result.forEach(n => answer += n);
+// console.log(Math.floor(answer / result.length));
+
+
