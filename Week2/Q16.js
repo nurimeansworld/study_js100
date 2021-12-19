@@ -44,4 +44,8 @@ console.log(text.split("").reverse().join(""));
 // const reverseStr = n.split('').reverse().join('');
 // console.log(reverseStr);
 
+// 박경서 답안
+let n = prompt("문장을 입력해주세요");
 
+let nReverse = n.split("").reverse().join("");
+console.log(nReverse);
