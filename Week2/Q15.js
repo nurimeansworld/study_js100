@@ -21,3 +21,10 @@ console.log(`안녕하세요. 저는 ${name}입니다.`);
 // }
 
 // sayHello(prompt('자기소개를 해주세요.이름을 입력하세요'));
+
+// //김초연 답안
+// function introduce(name) {
+//     console.log(`안녕하세요. 저는 ${name}입니다.`)
+// }
+
+// introduce('고심이');
