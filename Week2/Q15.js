@@ -21,3 +21,7 @@ console.log(`안녕하세요. 저는 ${name}입니다.`);
 // }
 
 // sayHello(prompt('자기소개를 해주세요.이름을 입력하세요'));
+
+// 박경서 답안
+let n = prompt("이름이 무엇인가요?");
+console.log(`안녕하세요. 저는 ${n}입니다.`)
