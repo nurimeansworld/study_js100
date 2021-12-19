@@ -39,7 +39,9 @@ console.log(text.split("").reverse().join(""));
 
 
 // 이승연 답안
-const n = prompt('문장을 입력하세요');
+// const n = prompt('문장을 입력하세요');
 
-const reverseStr = n.split('').reverse().join('');
-console.log(reverseStr);
+// const reverseStr = n.split('').reverse().join('');
+// console.log(reverseStr);
+
+
