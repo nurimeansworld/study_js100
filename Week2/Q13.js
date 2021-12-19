@@ -30,3 +30,10 @@ console.log(planet[n - 1]);
 // const SOLAR_SYSTEM = ['수성', '금성', '지구', '화성', '목성', '토성', '천왕성', '해왕성'];
 
 // console.log(SOLAR_SYSTEM[order - 1]);
+
+
+// 이승연 답안
+// const planets = ["수성", "금성", "지구", "화성", "목성", "토성", "천왕성", "해왕성"];
+// const n = prompt('몇 번째 행성인가요?');
+// console.log(planets[n-1]);
+
