@@ -4,12 +4,12 @@
 
 참여자
 
-- 김초연 [github/깃허브아이디](깃허브주소)
-- 박경서 [github/charile1](깃허브주소)
-- 박누리 [github/깃허브아이디](깃허브주소)
-- 박서영 [github/ongddree](깃허브주소)
+- 김초연 [github/vnfdusdl](https://github.com/vnfdusdl)
+- 박경서 [github/charile1](https://github.com/charile1)
+- 박누리 [github/nurimeansworld](https://github.com/nurimeansworld)
+- 박서영 [github/ongddree](https://github.com/ongddree)
 - 안소현 [github/sohyeonAn](https://github.com/sohyeonAn)
-- 이승연 [github/seungyyy](깃허브주소)
+- 이승연 [github/seungyyy](https://github.com/seungyyy)
 
 ## list
 
@@ -21,14 +21,36 @@
 
 ### <span id="Week1">Week1 - 21.12.12</span>
 
-- [문제1]()
-- [문제2]()
-- [문제3]()
-- [문제4]()
-- [문제5]()
-- [문제6]()
-- [문제7]()
-- [문제8]()
-- [문제9]()
-- [문제10]()
-- 스터디 기록과 회고 [archive211212.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week2/archive211209.md)
+<details>
+<summary>열기</summary>
+
+- [문제1](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q1.js)
+- [문제2](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q2.js)
+- [문제3](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q3.js)
+- [문제4](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q4.js)
+- [문제5](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q5.js)
+- [문제6](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q6.js)
+- [문제7](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q7.js)
+- [문제8](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q8.js)
+- [문제9](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q9.js)
+- [문제10](https://github.com/nurimeansworld/study_js100/blob/main/Week1/Q10.js)
+
+</details>
+
+### <span id="Week2">Week2 - 21.12.19</span>
+
+<details>
+<summary>열기</summary>
+
+- [문제11](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q11.js)
+- [문제12](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q12.js)
+- [문제13](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q13.js)
+- [문제14](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q14.js)
+- [문제15](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q15.js)
+- [문제16](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q16.js)
+- [문제17](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q17.js)
+- [문제18](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q18.js)
+- [문제19](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q19.js)
+- [문제20](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q20.js)
+
+</details>

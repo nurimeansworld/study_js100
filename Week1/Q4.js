@@ -8,10 +8,10 @@
 // 2번
 
 //이승연 답안
-// 정답: 2) 
+// 정답: 2)
 
 // 박경서 답안
-// 2번 
+// 2번
 
 // 안소현 답안
 // 정답: 2
@@ -19,3 +19,6 @@
 // console.log(typeof 2.22); // number
 // console.log(typeof 'p'); // string
 // console.log(typeof [1,2,3]); // object
+
+// 박누리 답안
+// 정답 : 2) 2.22는 number
