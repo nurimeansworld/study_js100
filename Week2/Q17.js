@@ -23,3 +23,22 @@ console.log(userHieght > 150 ? "YES" : "NO");
 // } else {
 //   console.log('No');
 // }
+
+
+//김초연 답안
+// function height(data) {
+//     if(typeof data === 'number') {
+//         if(data >= 150) {
+//             document.write(`yes!`);
+//         } else {
+//             document.write(`no..`);
+//         }
+//     } else {
+//         document.write(`잘못된 입력 값입니다!`)
+//     }
+// }
+
+// height(170); 
+// height(150);
+// height(140); 
+// height('키'); 
