@@ -41,3 +41,15 @@ console.log(parseInt(sum / arrScore.length));
 // console.log(Math.floor(answer / result.length));
 
 
+//김초연 답안
+// const data = prompt('점수를 입력하세요.')
+// const arr = data.split(' ');
+// let sum = 0;
+// let length = 0;
+// arr.forEach(i => {
+//     if(i !== ''){
+//         sum += parseInt(i, 10);
+//         length++;
+//     }
+// })
+// console.log(Math.floor(sum/length));
