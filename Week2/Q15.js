@@ -14,3 +14,10 @@ console.log(`안녕하세요. 저는 ${name}입니다.`);
 // 안소현 답안
 // const name = prompt('당신의 이름은 무엇인가요?');
 // console.log(`안녕하세요. 저는 ${name}입니다.`);
+
+// 이승연 답안
+// function sayHello(name) {
+//   console.log(`안녕하세요. 저는 ${name} 입니다.`);
+// }
+
+// sayHello(prompt('자기소개를 해주세요.이름을 입력하세요'));
