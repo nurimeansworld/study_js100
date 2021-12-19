@@ -14,3 +14,12 @@ console.log(userHieght > 150 ? "YES" : "NO");
 // const height = prompt('당신의 키는? (cm단위로 숫자만 입력)');
 // const result = height >= 150 ? 'YES' : 'NO';
 // console.log(result);
+
+// 이승연 답안
+// const n = prompt('키를 입력하세요');
+
+// if (n >= 150) {
+//   console.log('Yes');
+// } else {
+//   console.log('No');
+// }
