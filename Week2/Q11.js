@@ -27,3 +27,10 @@ console.log(s);
 //     s += i;
 // }
 // console.log(s);
+
+// 박경서 답안
+for (let i = 0; i <= 100; i++){
+s += i;
+}
+//5050
+

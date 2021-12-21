@@ -47,3 +47,13 @@ console.log(`입력 : ${num}
 // Game369(3);
 // Game369(2);
 // Game369('야');
+
+// 박경서 답안
+let n = prompt("영희야 숫자를 말해봐")
+
+if(n % 3 == 0) {
+    console.log("짝!!");
+}else {
+    console.log(n);
+}
+

@@ -42,3 +42,13 @@ console.log(userHieght > 150 ? "YES" : "NO");
 // height(150);
 // height(140); 
 // height('키'); 
+
+// 박경서 답안
+let n = prompt("키가 몇인가요?");
+
+if( n >= 150){
+    console.log("YES");
+} else {
+    console.log("NO");
+}
+

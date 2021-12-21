@@ -47,3 +47,9 @@ console.log(planet[n - 1]);
 //     }
 // }
 // planetCounter(1);
+
+// 박경서 답안
+let item = ["수성", "금성", "지구", "화성", "목성", "토성", "천왕성", "해왕성"];
+let n = prompt("행성의 순서를 입력하세요");
+console.log(item[n-1]);
+

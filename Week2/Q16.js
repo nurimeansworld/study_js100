@@ -44,6 +44,8 @@ console.log(text.split("").reverse().join(""));
 // const reverseStr = n.split('').reverse().join('');
 // console.log(reverseStr);
 
+// 박경서 답안
+let n = prompt("문장을 입력해주세요");
 
 // //김초연 답안
 //첫 번째 풀이
@@ -63,3 +65,7 @@ console.log(text.split("").reverse().join(""));
 // const data = prompt('입력하세요.');
 // const result = data.split('').reverse().join('');
 // console.log(result);
+
+let nReverse = n.split("").reverse().join("");
+console.log(nReverse);
+

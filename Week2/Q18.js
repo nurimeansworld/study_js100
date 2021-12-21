@@ -53,3 +53,12 @@ console.log(parseInt(sum / arrScore.length));
 //     }
 // })
 // console.log(Math.floor(sum/length));
+
+// 박경서 답안
+let a =  parseInt(prompt ("국어점수는?"));
+let b =  parseInt(prompt ("수학점수는?"));
+let c =  parseInt(prompt ("영어점수는?"));
+
+let n = (a + b + c)/3
+console.log(n);
+
