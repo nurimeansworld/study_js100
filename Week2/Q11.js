@@ -21,8 +21,16 @@ console.log(s);
 //  s += i;
 // }
 
+// 김초연 답안
+// let s = 0;
+// for (i = 1; i <=100; i++) {
+//     s += i;
+// }
+// console.log(s);
+
 // 박경서 답안
 for (let i = 0; i <= 100; i++){
 s += i;
 }
 //5050
+

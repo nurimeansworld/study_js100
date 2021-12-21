@@ -20,8 +20,16 @@ console.log(arrNum[0] ** arrNum[1]);
 // let result = num.split(' ');
 // console.log(parseInt(result[0]**result[1]));
 
+
+
+// 김초연 답안
+// const data = prompt('숫자 두 개를 입력하세요!').split(' ');
+// let result = parseInt(data[0], 10) ** parseInt(data[1], 10);
+// console.log(result);
+
 // 박경서 답안
 let num = prompt("정수와 제곱수를 입력하세요").split(" "); 
 let result = parseInt(num[0] ** num[1]);
 
 console.log(result);
+

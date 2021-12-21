@@ -41,6 +41,19 @@ console.log(parseInt(sum / arrScore.length));
 // console.log(Math.floor(answer / result.length));
 
 
+//김초연 답안
+// const data = prompt('점수를 입력하세요.')
+// const arr = data.split(' ');
+// let sum = 0;
+// let length = 0;
+// arr.forEach(i => {
+//     if(i !== ''){
+//         sum += parseInt(i, 10);
+//         length++;
+//     }
+// })
+// console.log(Math.floor(sum/length));
+
 // 박경서 답안
 let a =  parseInt(prompt ("국어점수는?"));
 let b =  parseInt(prompt ("수학점수는?"));
@@ -48,3 +61,4 @@ let c =  parseInt(prompt ("영어점수는?"));
 
 let n = (a + b + c)/3
 console.log(n);
+
