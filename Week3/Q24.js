@@ -5,3 +5,11 @@
 // 입출력
 // 입력 : mary
 // 출력 : MARY
+
+// 박누리 답안
+var item = prompt('이름을 입력하세요!');
+// var item = 'nuri';
+item = item.toUpperCase();
+console.log(item);
+item = item.toLowerCase();
+console.log(item);

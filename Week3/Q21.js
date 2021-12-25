@@ -6,3 +6,9 @@
 // 3)  var x = new Set('javascript');
 // 4)  var x = new Set(range(5));
 // 5)  var x = new Set();
+
+// 박누리 답안
+// 정답: 3, 5;
+// 1) var x = {1:1, 2:2, 3:3, 5:5, 6:6, 7:7};
+// 2) var x = new set();
+// 4) var x = new setStart(textnode, 5);

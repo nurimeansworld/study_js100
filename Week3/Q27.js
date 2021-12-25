@@ -8,3 +8,21 @@
 
 // **출력**
 // {'Yujin': 70, 'Hyewon': 100}
+
+// 박누리 답안
+var inputName = prompt('학생들 이름을 입력하세요. 구분은 공백으로 합니다');
+var inputScore = prompt(
+  '입력한 이름 순서대로 점수를 입력하세요. 구분은 공백으로 합니다'
+);
+// var inputName = 'Yujin Hyewon';
+// var inputScore = '70 100';
+
+arrName = inputName.split(' ');
+arrScore = inputScore.split(' ');
+var result = {};
+arrName.forEach((key, index) => (result[key] = arrScore[index]));
+console.log(result);
+
+// console.log(
+//   arrName.reduce((obj, key, index) => ({ ...obj, [key]: arrScore[index] }), {})
+// );

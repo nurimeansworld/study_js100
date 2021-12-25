@@ -9,3 +9,16 @@
 
 // 출력
 // 4
+
+// 박누리 답안
+var inputText = prompt('대상이 될 문자열을 입력하세요.');
+var findText = prompt('찾을 문자열을 입력하세요.');
+// var inputText = 'pineapple';
+// var findText = 'apple';
+
+console.log(
+  `${inputText}에서 ${findText}는 index[${inputText.indexOf(
+    findText
+  )}]에 있습니다.`
+);
+// console.log(inputText.includes(findText));
