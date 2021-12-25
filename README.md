@@ -54,3 +54,21 @@
 - [문제20](https://github.com/nurimeansworld/study_js100/blob/main/Week2/Q20.js)
 
 </details>
+
+### <span id="Week3">Week2 - 21.12.26</span>
+
+<details>
+<summary>열기</summary>
+
+- [문제21](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q21.js)
+- [문제22](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q22.js)
+- [문제23](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q23.js)
+- [문제24](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q24.js)
+- [문제25](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q25.js)
+- [문제26](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q26.js)
+- [문제27](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q27.js)
+- [문제28](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q28.js)
+- [문제29](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q29.js)
+- [문제30](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q30.js)
+
+</details>
