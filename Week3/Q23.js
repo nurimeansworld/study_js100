@@ -7,3 +7,6 @@
 // 여기서! parseInt와 Math.floor의 차이 -> 음수를 처리할 때 확연히 확인 가능
 // parseInt는 단순 소수점 아래자리 버림
 // Math.floor는 내림
+
+// 안소현 답안
+// 정답: X

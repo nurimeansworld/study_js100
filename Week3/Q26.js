@@ -21,3 +21,19 @@ var inputText = prompt(
 // var inputText = '지구';
 result = planets[inputText] ? planets[inputText] : '다시 입력하세요 :(';
 console.log(result);
+
+
+// 안소현 답안
+// const input = prompt('행성의 이름을 한글로 입력해주세요. (태양계만 가능)');
+// const SOLAR_SYSTEM = {
+//   '수성' : 'Mercury',
+//   '금성' : 'Venus',
+//   '지구' : 'Earth',
+//   '화성' : 'Mars',
+//   '목성' : 'Jupiter',
+//   '토성' : 'Saturn',
+//   '천왕성' : 'Uranus',
+//   '해왕성' : 'Neptune'
+// };
+
+// console.log(`${input}의 영어 이름은 ${SOLAR_SYSTEM[input]} 입니다.`);

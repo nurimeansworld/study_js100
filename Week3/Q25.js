@@ -13,3 +13,12 @@ var radius = prompt('반지름을 입력하세요');
 // var radius = 5;
 getArea(radius);
 console.log(`원의 넓이는 ${result}입니다.`);
+
+// 안소현 답안
+// const PI = 3.14;
+// const radius = prompt('반지름을 입력해주세요.(정수만 입력 가능)');
+// console.log('넓이는', calcAreaOfCircle(parseInt(radius)));
+
+// function calcAreaOfCircle(r) {
+//   return r * r * PI;
+// }
