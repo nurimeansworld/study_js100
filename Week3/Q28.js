@@ -25,3 +25,11 @@ function twoGram(string) {
 }
 var inputString = prompt('문자열을 공백없이 입력하세요');
 twoGram(inputString);
+
+
+// 안소현 답안
+// const str = prompt('문자열을 입력해 주세요');
+
+// for(let i=1; i<str.length; i++){
+//   console.log(str[i-1], str[i]);
+// }

@@ -12,3 +12,7 @@
 // 1) var x = {1:1, 2:2, 3:3, 5:5, 6:6, 7:7};
 // 2) var x = new set();
 // 4) var x = new setStart(textnode, 5);
+
+// 안소현 답안
+// 정답: 3, 5
+// var xx = new Set(range(5)); // range is not defined

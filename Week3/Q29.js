@@ -7,3 +7,7 @@ var inputText = prompt('알파벳 하나만 입력하세요! 대문자인지 확
 // var inputText = 'e';
 result = inputText === inputText.toUpperCase() ? 'YES' : 'NO';
 console.log(result);
+
+// 안소현 답안
+// const character = prompt('알파벳을 하나만 입력해 주세요.');
+// character.charCodeAt(0) > 64 && character.charCodeAt(0) < 91 ? console.log('YES') : console.log('NO');

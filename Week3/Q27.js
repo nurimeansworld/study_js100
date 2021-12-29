@@ -26,3 +26,13 @@ console.log(result);
 // console.log(
 //   arrName.reduce((obj, key, index) => ({ ...obj, [key]: arrScore[index] }), {})
 // );
+
+
+// 안소현 답안
+// const names = prompt('두 학생의 이름을 입력해주세요. (각 이름은 공백 하나로 구분)').split(' ');
+// const mathScores = prompt('두 학생의 수학 성적을 입력해주세요. (각 점수는 공백 하나로 구분)').split(' ');
+// const students = {};
+// students[names[0]] = parseInt(mathScores[0]);
+// students[names[1]] = parseInt(mathScores[1]);
+
+// console.log(students); // {Yujin: 70, Hyewon: 100}

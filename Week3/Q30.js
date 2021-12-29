@@ -22,3 +22,9 @@ console.log(
   )}]에 있습니다.`
 );
 // console.log(inputText.includes(findText));
+
+
+// 안소현 답안
+// const origin = prompt('문자열을 입력해주세요');
+// const search = prompt('찾을 단어를 입력해주세요');
+// console.log(origin.indexOf(search));

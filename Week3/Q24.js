@@ -13,3 +13,7 @@ item = item.toUpperCase();
 console.log(item);
 item = item.toLowerCase();
 console.log(item);
+
+// 안소현 답안
+// const name = prompt('참가자의 이름을 입력해주세요.');
+// console.log(name.toUpperCase());
