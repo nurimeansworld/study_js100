@@ -72,3 +72,21 @@
 - [문제30](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q30.js)
 
 </details>
+
+### <span id="Week4">Week3 - 22.01.02</span>
+
+<details>
+<summary>열기</summary>
+
+- [문제31](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q31.js)
+- [문제32](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q32.js)
+- [문제33](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q33.js)
+- [문제34](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q34.js)
+- [문제35](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q35.js)
+- [문제36](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q36.js)
+- [문제37](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q37.js)
+- [문제38](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q38.js)
+- [문제39](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q39.js)
+- [문제40](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q40.js)
+
+</details>
