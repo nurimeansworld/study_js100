@@ -17,3 +17,19 @@
 // console.log(a(10));
 // console.log(b(10));
 // console.log(c(10));
+
+// 박누리 답안
+function one(n){
+    function two(num){
+      return num**n;
+    }
+    return two;
+}
+
+const a = one(2); //제곱
+const b = one(3); //3제곱
+const c = one(4); //4제곱
+
+console.log(a(10)); //100
+console.log(b(10)); //1000
+console.log(c(10)); //10000

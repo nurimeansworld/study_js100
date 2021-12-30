@@ -6,3 +6,23 @@
 // 입출력
 // 입력 : 97 86 75 66 55 97 85 97 97 95
 // 출력 : 6
+
+// 박누리 답안
+var scores = prompt('점수를 순서대로 입력하세요. 구분은 공백입니다.').split(' ');
+// let scores = "97 86 75 66 55 97 85 97 97 95".split(' ');
+let arrResult = [];
+let count = 0;
+
+scores.sort(function(a, b) {
+  return b - a;
+});
+
+for(let i = 0; i < scores.length; i++) {
+  count++;
+  if(!arrResult.includes(scores[i]))
+    arrResult.push(scores[i]);
+
+  if(arrResult.length > 3)
+    break;
+}
+console.log(count-1);

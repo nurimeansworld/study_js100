@@ -6,3 +6,8 @@
 // 출력 : 5 4 3 2 1
 // 입력 : 2 4 6 7 8
 // 출력 : 8 7 6 4 2
+
+// 박누리 답안
+var numbers = prompt('숫자를 입력하세요. 구분은 띄어쓰기 입니다.');
+// var numbers = "2 4 6 7 8";
+console.log(numbers.split('').reverse().join(''));

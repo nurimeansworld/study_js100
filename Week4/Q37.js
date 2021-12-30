@@ -6,3 +6,21 @@
 
 // 출력
 // 혜원(이)가 총 4표로 반장이 되었습니다.
+
+// 박누리 답안
+var votes = prompt('표를 순서대로 입력하세요.').split(' ');
+// let votes = "원범 원범 혜원 혜원 혜원 혜원 유진 유진".split(' ');
+let arrCount = {};
+var resultCount = 0;
+var resultName = '';
+
+votes.forEach(element => {
+  arrCount[element] = (arrCount[element]) ? arrCount[element]+1 : 1;
+});
+for(key in arrCount){
+  if(!(resultCount > arrCount[key])){
+    resultCount = arrCount[key];
+    resultName = key;
+  }
+}
+console.log(`${resultName}(이)가 총 ${resultCount}표로 반장이 되었습니다.`);

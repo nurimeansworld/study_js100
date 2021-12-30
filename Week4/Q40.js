@@ -15,3 +15,19 @@
 
 // **출력**
 // 2
+
+// 박누리 답안
+var limit = Number(prompt('제한 무게를 입력하세요.'));
+var count = parseInt(prompt('인원수를 입력하세요.'));
+// var limit = 50;
+// var count = 5;
+var result = 0;
+var sum = 0;
+for (let i = 1; i < count+1; i++) {
+  var weight = prompt( i + '번째 사람의 몸무게를 입력하세요.');
+  sum += parseInt(weight);
+  if (sum <= limit){
+    result = i;
+  }
+}
+console.log(`${result}명 탈 수 있습니다.`);

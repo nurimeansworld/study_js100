@@ -9,3 +9,8 @@
 // 출력 : euerty
 // 입력 : hqllo my namq is hyqwon
 // 출력 : hello my name is hyewon
+
+// 박누리 답안
+var text = prompt('텍스트를 입력하세요.');
+// var text = "hqllo my namq is hyqwon";
+console.log(text.replace(/q/g, 'e'));

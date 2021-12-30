@@ -8,3 +8,15 @@
 // 출력 : NO
 // 입력 : 155 156 165 166 169 176
 // 출력 : YES
+
+// 박누리 답안
+var heights = prompt('키를 순서대로 입력하세요. 구분은 띄어쓰기 입니다.').split(' ');
+// var heights = "176 156 155 165 166 169".split(' ');
+var result = "YES";
+for (let i = 0; i < heights.length; i ++){
+  if((heights[i] - heights[i+1]) > 0 ){
+    result = 'NO';
+    break;
+  }
+}
+console.log(result);
