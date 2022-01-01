@@ -11,3 +11,9 @@ console.log(result);
 // 안소현 답안
 // const character = prompt('알파벳을 하나만 입력해 주세요.');
 // character.charCodeAt(0) > 64 && character.charCodeAt(0) < 91 ? console.log('YES') : console.log('NO');
+
+// 이승연 답안
+// let alphabet = prompt('알파벳 하나만 입력해주세요');
+
+// const answer = alphabet === alphabet.toLowerCase() ? "NO": "YES";
+// console.log(answer);
