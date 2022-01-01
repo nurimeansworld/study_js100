@@ -33,3 +33,13 @@ twoGram(inputString);
 // for(let i=1; i<str.length; i++){
 //   console.log(str[i-1], str[i]);
 // }
+
+// 이승연 답안
+// let text =  prompt('글자를 입력하세요');
+// let result = [];
+// for (let i=0; i < text.length; i+=2) {
+//   result.push(text[i], text[i+1]);
+//   console.log(result[i], result[i+1]);
+// }
+
+
