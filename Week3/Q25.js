@@ -22,3 +22,18 @@ console.log(`원의 넓이는 ${result}입니다.`);
 // function calcAreaOfCircle(r) {
 //   return r * r * PI;
 // }
+
+
+// 이승연 답안
+// function Circle(radius) {
+// this.radius = radius;
+//	this.getDiameter = function() {
+//		return Math.floor(Math.PI * this.radius * this.radius);
+//	};
+// }
+
+// const circle1 = new Circle(parseInt(prompt('원의 반지름 길이를 입력해주세요')));
+
+// console.log(circle1.getDiameter());
+
+
