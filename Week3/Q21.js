@@ -16,3 +16,6 @@
 // 안소현 답안
 // 정답: 3, 5
 // var xx = new Set(range(5)); // range is not defined
+
+// 이승연 답안
+// 정답 3, 5
