@@ -36,3 +36,15 @@ console.log(result);
 // students[names[1]] = parseInt(mathScores[1]);
 
 // console.log(students); // {Yujin: 70, Hyewon: 100}
+
+
+// 이승연 답안 
+// let name = prompt('이름을 입력해주세요').split(' ');
+// const score = prompt('점수를 입력해주세요').split(' ');
+
+// for (let i=0; i < name.length; i++) {
+//   obj1[name[i]] = parseInt([score[i]]);
+// }
+
+// console.log(obj1);
+
