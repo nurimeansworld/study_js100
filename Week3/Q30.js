@@ -28,3 +28,9 @@ console.log(
 // const origin = prompt('문자열을 입력해주세요');
 // const search = prompt('찾을 단어를 입력해주세요');
 // console.log(origin.indexOf(search));
+
+// 이승연 답안
+// const text = prompt('문자열을 입력하세요');
+// const word = prompt('찾을 단어를 입력하세요');
+// console.log(text.indexOf(word));
+
