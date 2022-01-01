@@ -44,7 +44,7 @@ console.log(result);
 
 // for (let i=0; i < name.length; i++) {
 //   obj1[name[i]] = parseInt([score[i]]);
-// }
+//  }
 
 // console.log(obj1);
 
