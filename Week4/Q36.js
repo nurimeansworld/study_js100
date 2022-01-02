@@ -26,3 +26,12 @@ console.log(result);
 // const data = prompt('숫자를 입력해주세요.구구단이 출력됩니다.');
 
 // console.log(gugu(data));
+
+// 안소현 답안
+// const num = prompt('구구단을 외자. 구구단을 외자. 몇 단?');
+// let result = '';
+// for(let i=1; i<10; i++){
+//   result += `${num * i} `;
+// }
+// result = result.trim();
+// console.log(result);

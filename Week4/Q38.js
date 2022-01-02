@@ -43,3 +43,16 @@ console.log(count-1);
 // }
 
 // console.log(count - 1);
+
+// 안소현 답안
+// const scores = prompt('학생들의 점수를 입력해주세요.').split(' ');
+// let sortedScore = scores.map(v => parseInt(v)).sort((a, b) => b - a);
+// let cnt = 1, rank = 1;
+// for (let i = 1; i < sortedScore.length; i++) {
+//   cnt += 1;
+//   if (sortedScore[i] !== sortedScore[i - 1]) rank += 1;
+
+//   if (rank === 3)
+//     break;
+// }
+// console.log(cnt);

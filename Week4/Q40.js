@@ -45,3 +45,16 @@ console.log(`${result}명 탈 수 있습니다.`);
 //   }
 // }
 // console.log(count);
+
+// 안소현 답안
+// const LIMIT_WEIGHT = prompt('제한무게를 입력하세요.')*1;
+// const friendCnt = prompt('친구는 몇 명인가요?')*1;
+// let sum = 0, cnt = 0;
+
+// for (let i = 0; i < friendCnt; i++) {
+//   const w = prompt('무게를 입력해주세요.');
+//   sum += parseInt(w);
+//   if(sum <= LIMIT_WEIGHT)
+//     cnt +=1;
+// }
+// console.log(cnt);

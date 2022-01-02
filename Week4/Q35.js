@@ -43,3 +43,12 @@ console.log(c(10)); //10000
 //     }
 //     return two;
 // }
+
+// 안소현 답안
+// function one(n){
+//   function two(num){
+//       //pass
+//       return num ** n;
+//   }
+//   return two;
+// }

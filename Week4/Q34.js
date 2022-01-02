@@ -26,3 +26,14 @@ console.log(result);
 // let result = data.split(' ').sort((a, b) => a - b).join(' ');
 // const answer = data === result ? 'Yes' : 'No';
 // console.log(answer);
+
+// 안소현 답안
+// const inpOrder = prompt('앉은 순서대로 키를 입력 해주세요.').split(' ');
+// let result = 'YES';
+// for (let i = 1; i < inpOrder.length; i++) {
+//   if (parseInt(inpOrder[i]) < parseInt(inpOrder[i - 1])) {
+//     result = 'NO';
+//     break;
+//   }
+// }
+// console.log(result);

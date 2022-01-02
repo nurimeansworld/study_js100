@@ -14,3 +14,7 @@ console.log(`단어는 총 ${text.length}개 입니다.`);
 // 이승연 답안
 // let words = prompt('자기소개서를 작성해주세요').split(' ');
 // console.log(words.length);
+
+// 안소현 답안
+// const str = prompt('자신을 소개하는 글을 입력해주세요.').split(' ');
+// console.log(str.length);
