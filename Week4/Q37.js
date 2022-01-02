@@ -24,3 +24,23 @@ for(key in arrCount){
   }
 }
 console.log(`${resultName}(이)가 총 ${resultCount}표로 반장이 되었습니다.`);
+
+// 이승연 답안
+// let datas = {};
+// const person = prompt('학생들이 뽑은 후보들을 입력해주세요')).split(' ');
+
+// for (let data in person) {
+//   let inx = person[data];
+//   datas[inx] = datas[inx] === undefined ? 1 : datas[inx] = datas[inx] + 1;
+// }
+
+// const values = Object.values(datas).sort((a, b) => b - a);
+
+// const result = [];
+// const win = Object.keys(datas).find(key => {
+//       if(datas[key] === values[0]){     
+//         result.push(key);
+//       }
+// });
+
+// console.log(`${result}(이)가 총 ${values[0]}표로 반장이 되었습니다.`);
