@@ -11,3 +11,9 @@
 var numbers = prompt('숫자를 입력하세요. 구분은 띄어쓰기 입니다.');
 // var numbers = "2 4 6 7 8";
 console.log(numbers.split('').reverse().join(''));
+
+// 이승연 답안
+// const num = prompt('숫자를 입력하세요.').split(' ').reverse();
+// let answer = '';
+// num.forEach(item => answer += item)
+// console.log(answer);
