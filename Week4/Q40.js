@@ -31,3 +31,17 @@ for (let i = 1; i < count+1; i++) {
   }
 }
 console.log(`${result}명 탈 수 있습니다.`);
+
+// 이승연 답안
+// let total = 0;
+// let count = 0;
+// const limit = prompt('제한 무게를 입력하세요');
+// const person = prompt('인원 수를 입력하세요');
+
+// for(let i = 1; i <=person; i++) {
+//   total += parseInt(prompt('무게를 입력해주세요'), 10);
+//   if (total <= limit) {
+//     count = i;
+//   }
+// }
+// console.log(count);
