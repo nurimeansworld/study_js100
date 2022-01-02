@@ -14,3 +14,8 @@
 var text = prompt('텍스트를 입력하세요.');
 // var text = "hqllo my namq is hyqwon";
 console.log(text.replace(/q/g, 'e'));
+
+// 이승연 답안
+// const data = prompt('문장을 입력해주세요');
+// const result = data.replace(/q/gi, 'e');
+// console.log(result);
