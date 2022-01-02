@@ -33,3 +33,13 @@ const c = one(4); //4제곱
 console.log(a(10)); //100
 console.log(b(10)); //1000
 console.log(c(10)); //10000
+
+
+// 이승연 답안
+// function one(n){
+//     function two(num){
+//       const factory = num ** n;
+//       return factory;
+//     }
+//     return two;
+// }
