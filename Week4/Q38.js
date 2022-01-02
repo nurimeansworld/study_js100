@@ -26,3 +26,20 @@ for(let i = 0; i < scores.length; i++) {
     break;
 }
 console.log(count-1);
+
+// 이승연 답안
+// const score = prompt('점수를 입력해주세요').split(' ').map(n => parseInt(n, 10));
+
+// score.sort((a, b) => a - b);
+// let count = 0;
+// let arr = [];
+
+// while(arr.length < 4) {
+//   let n = score.pop();
+//   if (!arr.includes(n)) {
+//     arr.push(n);
+//   }
+//   count++;
+// }
+
+// console.log(count - 1);
