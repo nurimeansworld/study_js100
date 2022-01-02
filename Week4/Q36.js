@@ -13,3 +13,16 @@ for(let i = 1; i < 10; i++){
   result = `${result} ${gugudan*i}`;
 }
 console.log(result);
+
+// 이승연 답안
+// function gugu(n) {
+//   let result = '';
+//   for(let i = 1; i < 10; i ++) {
+//     result += n * i + ' ';
+//   }
+//   return result;
+// }
+
+// const data = prompt('숫자를 입력해주세요.구구단이 출력됩니다.');
+
+// console.log(gugu(data));
