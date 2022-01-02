@@ -20,3 +20,9 @@ for (let i = 0; i < heights.length; i ++){
   }
 }
 console.log(result);
+
+// 이승연 답안
+// const data = prompt('키를 공백으로 구분하여 입력해주세요');
+// let result = data.split(' ').sort((a, b) => a - b).join(' ');
+// const answer = data === result ? 'Yes' : 'No';
+// console.log(answer);
