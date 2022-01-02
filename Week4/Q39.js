@@ -19,3 +19,8 @@ console.log(text.replace(/q/g, 'e'));
 // const data = prompt('문장을 입력해주세요');
 // const result = data.replace(/q/gi, 'e');
 // console.log(result);
+
+// 안소현 답안
+// const s = prompt('혜원이가 입력한 문장을 입력해 주세요.');
+// const result = s.replace(/q/gi, 'e');
+// console.log(result);

@@ -44,3 +44,22 @@ console.log(`${resultName}(이)가 총 ${resultCount}표로 반장이 되었습�
 // });
 
 // console.log(`${result}(이)가 총 ${values[0]}표로 반장이 되었습니다.`);
+
+// 안소현 답안
+// const students = prompt('뽑힌 학생의 이름을 순서대로 입력하세요.').split(' ');
+// let score = {};
+// let max = 0, maxStudent='';
+// students.forEach(student => {
+//   // 해당 학생이 score객체에 없으면 추가
+//   if (!score[student]) {
+//     score[student] = 1;
+//   } else {
+//     score[student] += 1;
+//   }
+
+//   if(score[student] > max){
+//     max = score[student];
+//     maxStudent = student;
+//   }
+// });
+// console.log(`${maxStudent}(이)가 총${max}표로 반장이 되었습니다.`);

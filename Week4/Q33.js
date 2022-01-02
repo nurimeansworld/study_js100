@@ -17,3 +17,10 @@ console.log(numbers.split('').reverse().join(''));
 // let answer = '';
 // num.forEach(item => answer += item)
 // console.log(answer);
+
+// 안소현 답안
+// const nums = prompt('숫자를 차례 없이 입력해주세요. (각 숫자는 공백 하나로 구분)').split(' ');
+// const reverseNums = nums.reverse();
+// let result = '';
+// reverseNums.forEach((num, i) => i < reverseNums.length - 1 ? result += num + ' ' : result += num);
+// console.log(result);
