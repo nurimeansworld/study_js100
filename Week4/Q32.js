@@ -10,3 +10,7 @@
 var text = prompt('문자열을 입력하세요.').split(' ');
 // var text = "안녕하세요. 저는 제주대학교 컴퓨터공학전공 혜림입니다.".split(' ');
 console.log(`단어는 총 ${text.length}개 입니다.`);
+
+// 이승연 답안
+// let words = prompt('자기소개서를 작성해주세요').split(' ');
+// console.log(words.length);
