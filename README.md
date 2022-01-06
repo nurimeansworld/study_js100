@@ -73,20 +73,38 @@
 
 </details>
 
-### <span id="Week4">Week3 - 22.01.02</span>
+### <span id="Week4">Week4 - 22.01.02</span>
 
 <details>
 <summary>열기</summary>
 
-- [문제31](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q31.js)
-- [문제32](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q32.js)
-- [문제33](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q33.js)
-- [문제34](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q34.js)
-- [문제35](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q35.js)
-- [문제36](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q36.js)
-- [문제37](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q37.js)
-- [문제38](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q38.js)
-- [문제39](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q39.js)
-- [문제40](https://github.com/nurimeansworld/study_js100/blob/main/Week3/Q40.js)
+- [문제31](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q31.js)
+- [문제32](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q32.js)
+- [문제33](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q33.js)
+- [문제34](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q34.js)
+- [문제35](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q35.js)
+- [문제36](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q36.js)
+- [문제37](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q37.js)
+- [문제38](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q38.js)
+- [문제39](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q39.js)
+- [문제40](https://github.com/nurimeansworld/study_js100/blob/main/Week4/Q40.js)
+
+</details>
+
+### <span id="Week5">Week5 - 1월 둘째주</span>
+
+<details>
+<summary>열기</summary>
+
+- [문제41](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q41.js)
+- [문제42](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q42.js)
+- [문제43](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q43.js)
+- [문제44](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q44.js)
+- [문제45](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q45.js)
+- [문제46](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q46.js)
+- [문제47](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q47.js)
+- [문제48](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q48.js)
+- [문제49](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q49.js)
+- [문제50](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q50.js)
 
 </details>
