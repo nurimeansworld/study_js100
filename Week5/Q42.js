@@ -10,3 +10,14 @@
 // (13월 26일이나 2월 45일 같은 날짜는 주어지지 않습니다.)
 
 // 박누리 답안
+// let data = prompt('요일을 알려드립니다. 2020년 a월 b일 형식에 맞춰 알고 싶은 날짜를 입력하세요. a와 b는 컴마로 구분합니다. (예. 5,25 는 5월 25일)');
+const data = '8,4';
+
+function getDay(data) {
+  const weekDay = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
+  const dataArr = data.split(',');
+  const setDate = new Date(`2020-${dataArr[0]}-${dataArr[1]}`);
+  return weekDay[setDate.getDay()];
+}
+const result = getDay(data);
+console.log(result);

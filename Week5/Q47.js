@@ -12,13 +12,7 @@ const people = {
   이호준: "01050442903"
 };
 
-// // 박누리 답안
-// const arrDup = ['라이언', '어피치', '프로도', '콘', '라이언', '프로도'];
-// // const arrUnique = arrDup.filter((character, idx, arr)=>{
-// //     return arr.findIndex((item) => item.name === character.name && item.company === character.company) === idx
-// // });
-// // const arrUnique = [...new Set(arrDup)];
-// const arrUnique = arrDup.filter((character, idx, arr)=>{
-//     return arr.findIndex((item) => item.name === character.name && item.company === character.company) === idx
-// });
-// console.log(arrUnique); // ['라이언', '어피치', '프로도', '콘']
+// 박누리 답안
+const resultArr = new Set(Object.keys(people));
+const result =resultArr.size
+console.log(result);
