@@ -16,10 +16,13 @@
 - [Week1](#Week1)
 - [Week2](#week2)
 - [Week3](#week3)
+- [Week4](#week4)
+- [Week5](#week5)
+- [Week6 (다시 시작🔥)](#week6)
 
 ---
 
-### <span id="Week1">Week1 - 21.12.12</span>
+### <span id="Week1">Week1 - 12월 둘째주</span>
 
 <details>
 <summary>열기</summary>
@@ -37,7 +40,7 @@
 
 </details>
 
-### <span id="Week2">Week2 - 21.12.19</span>
+### <span id="Week2">Week2 - 12월 셋째주</span>
 
 <details>
 <summary>열기</summary>
@@ -55,7 +58,7 @@
 
 </details>
 
-### <span id="Week3">Week3 - 21.12.26</span>
+### <span id="Week3">Week3 - 12월 넷째주</span>
 
 <details>
 <summary>열기</summary>
@@ -73,7 +76,7 @@
 
 </details>
 
-### <span id="Week4">Week4 - 22.01.02</span>
+### <span id="Week4">Week4 - 1월 첫째주</span>
 
 <details>
 <summary>열기</summary>
@@ -106,5 +109,23 @@
 - [문제48](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q48.js)
 - [문제49](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q49.js)
 - [문제50](https://github.com/nurimeansworld/study_js100/blob/main/Week5/Q50.js)
+
+</details>
+
+### <span id="Week6">Week6 - 3월 둘째주</span>
+
+<details>
+<summary>열기</summary>
+
+- [문제51](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q51.js)
+- [문제52](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q52.js)
+- [문제53](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q53.js)
+- [문제54](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q54.js)
+- [문제55](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q55.js)
+- [문제56](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q56.js)
+- [문제57](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q57.js)
+- [문제58](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q58.js)
+- [문제59](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q59.js)
+- [문제60](https://github.com/nurimeansworld/study_js100/blob/main/Week6/Q60.js)
 
 </details>
