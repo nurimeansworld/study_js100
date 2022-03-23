@@ -5,6 +5,22 @@
 
 // 입력1 : 1 2 3 4 5
 // 출력1 : YES
-
 // 입력2 : 1 4 2 6 3
 // 출력2 : NO
+
+// let arrUserInput = prompt('숫자를 입력하세요.').split(' ');
+let arrUserInput = '1 2 4 3'.split(' ');
+
+function checkContinuous(arrUserInput) {
+  let result = 'YES';
+  for (let i = 0; i < arrUserInput.length; i++) {
+    if (arrUserInput[i] > arrUserInput[i + 1]) {
+      result = 'NO';
+      break;
+    }
+  }
+  return result;
+}
+
+const result = checkContinuous(arrUserInput);
+console.log(result);
