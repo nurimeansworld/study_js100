@@ -7,38 +7,46 @@
 
 // 다음 코드의 빈칸을 채워 병합정렬을 완성해 봅시다.
 
-function mergeSort(arr){
-  if (arr.length <= 1){
+function mergeSort(arr) {
+  console.log('arr', arr);
+  if (arr.length <= 1) {
     return arr;
   }
 
   const mid = Math.floor(arr.length / 2);
-  const left = arr.slice(0,mid);
+  const left = arr.slice(0, mid);
   const right = arr.slice(mid);
 
   return merge(mergeSort(left), mergeSort(right));
 }
 
-function merge(left, right){
+function merge(left, right) {
+  console.log('left', left);
+  console.log('right', right);
+  console.log('-------------');
   let result = [];
 
-  while (/*빈칸을 채워주세요*/ && /*빈칸을 채워주세요*/){
-    if (/*빈칸을 채워주세요*/){
-      result.push(left.shift());
-    } else {
-      result.push(right.shift());
-    }
+  // while (/*빈칸을 채워주세요*/ && /*빈칸을 채워주세요*/){
+  if (left > right) {
+    result.push(left.shift());
+  } else {
+    result.push(right.shift());
   }
-  while (left.length) {
-    /*빈칸을 채워주세요*/
-  }
-  while (right.length) {
-    /*빈칸을 채워주세요*/
-  }
+
+  console.log('result', result);
+  console.log('-------------');
+  // }
+  // while (left.length) {
+  /*빈칸을 채워주세요*/
+  // }
+  // while (right.length) {
+  /*빈칸을 채워주세요*/
+  // }
 
   return result;
 }
 
-const array = prompt('배열을 입력하세요').split(' ').map(n => parseInt(n, 10));
-
+// const array = prompt('배열을 입력하세요').split(' ').map(n => parseInt(n, 10));
+const array = '1 10 7 3 6 20 4'.split(' ').map((n) => parseInt(n, 10));
+// console.log('array', array);
 console.log(mergeSort(array));
